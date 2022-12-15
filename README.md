@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnold dev </></h1>
 <h3 align="center">Analyste & Programmeur (Developpeur Fullstack)</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XchwO0hs6rQccuMxtlAqZD2T1aZNJi4kRg&usqp=CAU" width="100px" height="100px"/></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XchwO0hs6rQccuMxtlAqZD2T1aZNJi4kRg&usqp=CAU" width="500px" height="100px"/></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnold-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arnold-dev" /> </p>
 
