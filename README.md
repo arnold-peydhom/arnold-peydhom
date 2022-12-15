@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je me surnome Arnold dev🔥 </></h1>
 <h3 align="center">Analyste & Programmeur (Developpeur Fullstack)</h3>
-<img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" width="350px" height="200px"/></img>
-<img src="https://user-images.githubusercontent.com/116915499/207896897-e322c340-b413-4719-b1e8-aff5450f4bc3.png" width="350px" height="200px"</img>
+<p><img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" width="350px" height="200px"/></img></p>
+<p><img src="https://user-images.githubusercontent.com/116915499/207896897-e322c340-b413-4719-b1e8-aff5450f4bc3.png" width="350px" height="200px"</img></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnold-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arnold-dev" /> </p>
 
