@@ -1,13 +1,9 @@
 <h1 align="center">Salut 👋, je me surnome Arnold dev🔥 </></h1>
 <h3 align="center">Analyste & Programmeur (Developpeur Fullstack)</h3>
-<img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" width="450px" height="300px"/></img>
-<img src="https://user-images.githubusercontent.com/116915499/207896897-e322c340-b413-4719-b1e8-aff5450f4bc3.png" width="450px" height="300px"</img>
+<img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" width="600px" height="250px"/></img>
+<img src="https://user-images.githubusercontent.com/116915499/207896897-e322c340-b413-4719-b1e8-aff5450f4bc3.png" width="600px" height="250px"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnold-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arnold-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnold-dev" alt="arnold-dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
