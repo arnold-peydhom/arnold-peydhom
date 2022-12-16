@@ -18,6 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnold-dev&show_icons=true&locale=en" alt="arnold-dev" /></p>
 
 
-<img src="https://user-images.githubusercontent.com/116915499/208140374-ae2d46b1-a705-4a13-92ed-6411756c5f57.png" width="250px" height="200px"/></img>
+<img src="https://user-images.githubusercontent.com/116915499/208140374-ae2d46b1-a705-4a13-92ed-6411756c5f57.png" width="200px" height="160px"/></img>
+<h3>Scan Me😉</h3>
 
 
