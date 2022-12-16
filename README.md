@@ -19,6 +19,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/116915499/208151134-1c6b710d-d6ec-47b5-a6f0-adc6b85b029a.png" width="260px" height="215px"/></img>
-<h3>Scan Me😉</h3>
+<h3>Scan Me To consult my website😉</h3>
 
 
