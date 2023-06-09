@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je me surnome Arnold dev🔥 </></h1>
-<h3 align="center">Analyste & Programmeur (Developpeur Fullstack)</h3>
+<h3 align="center">Developpeur Fullstack ANGULAR & .NET</h3>
 <img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" width="600px" height="265px"/></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnold-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arnold-dev" /> </p>
