@@ -19,7 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnold-peydhom&show_icons=true&locale=en" alt="arnold-peydhom" /></p>
 
 <img src="https://user-images.githubusercontent.com/116915499/208151134-1c6b710d-d6ec-47b5-a6f0-adc6b85b029a.png" width="260px" height="215px"/></img>
-<h3>Scan Me To consult my website😉</h3>
+<h3>Scan Me To consult my website😉</h3><br>
+<h2>CHECK MY CV Online</h2><p>https://cvdesignr.com/p/63d3f79f29dc3</p>
 
 
 
