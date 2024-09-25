@@ -19,8 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnold-peydhom&show_icons=true&locale=en" alt="arnold-peydhom" /></p>
 
 <h2><a href="https://arnold-portfolio.onrender.com">Cliquer pour consulter mon site web</a></h2>
-<h3>Scan Me To consult my website😉</h3><br>
-<a href="https://cvdesignr.com/p/63d3f79f29dc3">CHECK MY CV ONlINE</a>
 
 
 
